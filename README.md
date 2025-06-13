@@ -18,11 +18,6 @@ A lightweight, easy-to-use PHP wrapper for the Instinct Veterinary Partner API. 
 
 ## 📦 Installation
 
-### Via Composer (Recommended)
-```bash
-composer require rafaelkapela/instinct-vet-php-api
-```
-
 ### Manual Installation
 1. Download the `InstinctClass.php` file
 2. Include it in your project:
