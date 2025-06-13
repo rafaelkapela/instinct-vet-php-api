@@ -262,16 +262,8 @@ if (!$response || !$response['success']) {
 Run the included test suite to verify your API connection:
 
 ```bash
-# Test authentication
-php tests/test_auth.php
-
 # Test all GET methods (safe - no data modification)
 php tests/test_all_get_methods.php
-
-# Test specific endpoints
-php tests/test_visits.php
-php tests/test_accounts.php
-php tests/test_patients.php
 ```
 
 ### Test Results
